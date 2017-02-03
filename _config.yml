@@ -9,7 +9,7 @@ description: 一个好玩的博客
 author: 苒葵
 language: zh-Hans
 timezone: Asia/Shanghai
-avatar: http://cdn.tyrion.wang/avatar.png?imageView2/1/w/150/h/150
+avatar: /images/avatar.png
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
